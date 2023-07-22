@@ -1,0 +1,62 @@
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\bin\Debug\net6.0-windows\CS_2_5.exe
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\bin\Debug\net6.0-windows\CS_2_5.deps.json
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\bin\Debug\net6.0-windows\CS_2_5.runtimeconfig.json
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\bin\Debug\net6.0-windows\CS_2_5.dll
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\bin\Debug\net6.0-windows\CS_2_5.pdb
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\obj\Debug\net6.0-windows\CS_2_5.csproj.AssemblyReference.cache
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\obj\Debug\net6.0-windows\day_wow.g.cs
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\obj\Debug\net6.0-windows\CS_2_5_MarkupCompile.cache
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\obj\Debug\net6.0-windows\CS_2_5_MarkupCompile.lref
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\obj\Debug\net6.0-windows\day_wow.baml
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\obj\Debug\net6.0-windows\CS_2_5.g.resources
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\obj\Debug\net6.0-windows\CS_2_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\obj\Debug\net6.0-windows\CS_2_5.AssemblyInfoInputs.cache
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\obj\Debug\net6.0-windows\CS_2_5.AssemblyInfo.cs
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\obj\Debug\net6.0-windows\CS_2_5.csproj.CoreCompileInputs.cache
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\obj\Debug\net6.0-windows\CS_2_5.dll
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\obj\Debug\net6.0-windows\refint\CS_2_5.dll
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\obj\Debug\net6.0-windows\CS_2_5.pdb
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\obj\Debug\net6.0-windows\CS_2_5.genruntimeconfig.cache
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\obj\Debug\net6.0-windows\ref\CS_2_5.dll
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\obj\Debug\net6.0-windows\Page1.g.cs
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\obj\Debug\net6.0-windows\Page2.g.cs
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\obj\Debug\net6.0-windows\Page1.baml
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\obj\Debug\net6.0-windows\Page2.baml
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\obj\Debug\net6.0-windows\gadam_capybara.g.cs
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\obj\Debug\net6.0-windows\gadam_capybara.baml
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\shavuh1n\source\repos\CS_2_5\CS_2_5\obj\Debug\net6.0-windows\CS_2_5.csproj.CopyComplete
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\bin\Debug\net6.0-windows\CS_2_5.exe
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\bin\Debug\net6.0-windows\CS_2_5.deps.json
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\bin\Debug\net6.0-windows\CS_2_5.runtimeconfig.json
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\bin\Debug\net6.0-windows\CS_2_5.dll
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\bin\Debug\net6.0-windows\CS_2_5.pdb
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\obj\Debug\net6.0-windows\CS_2_5.csproj.AssemblyReference.cache
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\obj\Debug\net6.0-windows\day_wow.g.cs
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\obj\Debug\net6.0-windows\gadam_capybara.g.cs
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\obj\Debug\net6.0-windows\Page1.g.cs
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\obj\Debug\net6.0-windows\Page2.g.cs
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\obj\Debug\net6.0-windows\CS_2_5_MarkupCompile.cache
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\obj\Debug\net6.0-windows\CS_2_5_MarkupCompile.lref
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\obj\Debug\net6.0-windows\day_wow.baml
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\obj\Debug\net6.0-windows\gadam_capybara.baml
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\obj\Debug\net6.0-windows\Page1.baml
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\obj\Debug\net6.0-windows\Page2.baml
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\obj\Debug\net6.0-windows\CS_2_5.g.resources
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\obj\Debug\net6.0-windows\CS_2_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\obj\Debug\net6.0-windows\CS_2_5.AssemblyInfoInputs.cache
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\obj\Debug\net6.0-windows\CS_2_5.AssemblyInfo.cs
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\obj\Debug\net6.0-windows\CS_2_5.csproj.CoreCompileInputs.cache
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\obj\Debug\net6.0-windows\CS_2_5.csproj.CopyComplete
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\obj\Debug\net6.0-windows\CS_2_5.dll
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\obj\Debug\net6.0-windows\refint\CS_2_5.dll
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\obj\Debug\net6.0-windows\CS_2_5.pdb
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\obj\Debug\net6.0-windows\CS_2_5.genruntimeconfig.cache
+C:\Users\lu4lu\OneDrive\Рабочий стол\CS_2_5-master\CS_2_5\obj\Debug\net6.0-windows\ref\CS_2_5.dll
